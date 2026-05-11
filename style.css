@@ -30,6 +30,8 @@ header, footer, .SectionSetting{
 .SectionBio, .sectonWhoWeAre, .sectionMission, .sectionHowWeOperate {
     background-color: var(--Primary);
 }
+.hero{
+    display: none;}
 .section_services, #secondBenefitContainer , .News,
  .Centrehub, .sectionAboutContact  {
     background-color: var(--Secondary);
